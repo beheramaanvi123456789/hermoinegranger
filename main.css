@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+        
+}
+h1{
+    color: deeppink;
+}
+img{
+    transition:transform .2s;
+    border: 10px solid #AAAAAA
+}
